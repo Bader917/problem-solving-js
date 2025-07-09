@@ -14,12 +14,13 @@ Each challenge includes:
 
 ## 📋 Solved Challenges
 
-| #  | Challenge Title    | File                       |
-| -- | ------------------ | -------------------------- |
-| 01 | Sum of Two Numbers | `01-sum-of-two-numbers.js` |
-| 02 | Reverse a String   | `02-reverse-a-string`      |
-| 03 | Is Palindrome      | `03-is-palindrome.js`      |
-| 04 | Count Vowels       | `04-count-vowels.js`       |
+| #  | Challenge Title         | File                       |
+| -- | ----------------------- | -------------------------- |
+| 01 | Sum of Two Numbers      | `01-sum-of-two-numbers.js` |
+| 02 | Reverse a String        | `02-reverse-a-string`      |
+| 03 | Is Palindrome           | `03-is-palindrome.js`      |
+| 04 | Count Vowels            | `04-count-vowels.js`       |
+| 05 | Find the Maximum Number | `05-find-max.js`           |
 
 More coming soon...
 
