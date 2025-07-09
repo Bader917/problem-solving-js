@@ -18,6 +18,7 @@ Each challenge includes:
 | -- | ------------------ | -------------------------- |
 | 01 | Sum of Two Numbers | `01-sum-of-two-numbers.js` |
 | 02 | Reverse a String   | `02-reverse-a-string`      |
+| 03 | Is Palindrome      | `03-is-palindrome.js`      |
 
 More coming soon...
 
