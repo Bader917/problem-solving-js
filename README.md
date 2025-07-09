@@ -17,6 +17,7 @@ Each challenge includes:
 | #  | Challenge Title    | File                       |
 | -- | ------------------ | -------------------------- |
 | 01 | Sum of Two Numbers | `01-sum-of-two-numbers.js` |
+| 02 | Reverse a String   | `02-reverse-a-string`      |
 
 More coming soon...
 
