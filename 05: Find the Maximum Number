@@ -1,0 +1,14 @@
+// ✅ Challenge 05: Find the Maximum Number
+// Write a function that returns the largest number in an array.
+// Do not use Math.max; use array methods like reduce.
+
+function findMax(arr) {
+  if (arr.length < 1) return null;
+  return arr.reduce((acc, cur) => acc > cur ? acc : cur);
+}
+
+// ✅ Test Cases
+console.log(findMax([1, 5, 2, 9, 3]));      // 9
+console.log(findMax([-10, -5, -2]));       // -2
+console.log(findMax([100]));              // 100
+console.log(findMax([]));                // null
