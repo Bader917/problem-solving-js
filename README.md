@@ -23,7 +23,8 @@ Each challenge includes:
 | 05 | Find the Maximum Number      | `05-find-max.js`                          |
 | 06 | 06-count-odds.js             | `06-count-odd-numbers-in-an-array`        |
 | 07 | 07-count-strings.js          | `07-count-string-elements-in-an-array`    |
-| 08  | 08-sum-positive.js          | Sum all positive numbers in an array      |
+| 08 | 08-sum-positive.js           | Sum all positive numbers in an array      |
+| 09 | 09-remove-falsy.js           | Remove falsy values from an array         |
 
 More coming soon...
 
