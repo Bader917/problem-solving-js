@@ -26,6 +26,7 @@ Each challenge includes:
 | 08 | 08-sum-positive.js              | `08-Sum all positive numbers in an array`                    |
 | 09 | 09-remove-falsy.js              | `09-Remove falsy values from an array`                       |
 | 10 | 10-capitalize-words.js          | `10-Capitalize the first letter of each word in a sentence`  |
+| 11 | 11-total-price.js               | `11-Calculate total price using reduce() with initial value` |
 
 More coming soon...
 
