@@ -28,6 +28,7 @@ Each challenge includes:
 | 10 | 10-capitalize-words.js          | `10-Capitalize the first letter of each word in a sentence`  |
 | 11 | 11-total-price.js               | `11-Calculate total price using reduce() with initial value` |
 | 12 | 12-successful-students.js       | `12-Extract names of students who passed using filter + map` |
+| 13 | 13-sum-numbers-only.js          | `13-Sum numeric values only using filter and reduce`          |
 
 More coming soon...
 
