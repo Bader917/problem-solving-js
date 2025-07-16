@@ -14,22 +14,23 @@ Each challenge includes:
 
 ## 📋 Solved Challenges
 
-| #  | Challenge Title                 | File                                                         |
-| -- | ------------------------------- | ------------------------------------------------------------ |
-| 01 | 01-Sum of Two Numbers           | `01-sum-of-two-numbers.js`                                   |
-| 02 | 02-Reverse a String             | `02-reverse-a-string`                                        |
-| 03 | 03-Is Palindrome                | `03-is-palindrome.js`                                        |
-| 04 | 04-Count Vowels                 | `04-count-vowels.js`                                         |
-| 05 | 05-Find the Maximum Number      | `05-find-max.js`                                             |
-| 06 | 06-count-odds.js                | `06-count-odd-numbers-in-an-array`                           |
-| 07 | 07-count-strings.js             | `07-count-string-elements-in-an-array`                       |
-| 08 | 08-sum-positive.js              | `08-Sum all positive numbers in an array`                    |
-| 09 | 09-remove-falsy.js              | `09-Remove falsy values from an array`                       |
-| 10 | 10-capitalize-words.js          | `10-Capitalize the first letter of each word in a sentence`  |
-| 11 | 11-total-price.js               | `11-Calculate total price using reduce() with initial value` |
-| 12 | 12-successful-students.js       | `12-Extract names of students who passed using filter + map` |
-| 13 | 13-sum-numbers-only.js          | `13-Sum numeric values only using filter and reduce`         |
-| 14 | 14-count-letters.js             | `14-count-letters.js With simple solution using filter`      |
+| #  | Challenge Title                 | File                                                                   |
+| -- | ------------------------------- | ---------------------------------------------------------------------- |
+| 01 | 01-Sum of Two Numbers           | `01-sum-of-two-numbers.js`                                             |
+| 02 | 02-Reverse a String             | `02-reverse-a-string`                                                  |
+| 03 | 03-Is Palindrome                | `03-is-palindrome.js`                                                  |
+| 04 | 04-Count Vowels                 | `04-count-vowels.js`                                                   |
+| 05 | 05-Find the Maximum Number      | `05-find-max.js`                                                       |
+| 06 | 06-count-odds.js                | `06-count-odd-numbers-in-an-array`                                     |
+| 07 | 07-count-strings.js             | `07-count-string-elements-in-an-array`                                 |
+| 08 | 08-sum-positive.js              | `08-Sum all positive numbers in an array`                              |
+| 09 | 09-remove-falsy.js              | `09-Remove falsy values from an array`                                 |
+| 10 | 10-capitalize-words.js          | `10-Capitalize the first letter of each word in a sentence`            |
+| 11 | 11-total-price.js               | `11-Calculate total price using reduce() with initial value`           |
+| 12 | 12-successful-students.js       | `12-Extract names of students who passed using filter + map`           |
+| 13 | 13-sum-numbers-only.js          | `13-Sum numeric values only using filter and reduce`                   |
+| 14 | 14-count-letters.js             | `14-count-letters.js With simple solution using filter`                |
+| 15 | filter-map-students.js          | `filter-map-students.js With simple solution using filter and map`     |
 
 More coming soon...
 
