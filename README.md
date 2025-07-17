@@ -31,6 +31,7 @@ Each challenge includes:
 | 13 | 13-sum-numbers-only.js          | `13-Sum numeric values only using filter and reduce`                   |
 | 14 | 14-count-letters.js             | `14-count-letters.js With simple solution using filter`                |
 | 15 | filter-map-students.js          | `filter-map-students.js With simple solution using filter and map`     |
+| 16 | 16-clean-numbers.js             | `16-clean-numbers.js With filter() to remove non-number values`        |
 
 More coming soon...
 
