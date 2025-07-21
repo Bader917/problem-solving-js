@@ -34,6 +34,7 @@ Each challenge includes:
 | 16 | 16-clean-numbers.js             | `16-clean-numbers.js With filter() to remove non-number values`        |
 | 17 | 17-sum-numbers.js               | `17-sum-numbers.js With filter() and reduce() to sum numbers only`     |
 | 18 | 18-capitalize-valid-strings.js  | `18-capitalize-valid-strings.js Capitalize non-numeric strings only`   |
+| 19 | 19-capitalize-and-count-valid.js| `19-capitalize-and-count-valid.js capitalizes strings`                 |
 
 More coming soon...
 
