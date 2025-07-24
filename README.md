@@ -35,6 +35,7 @@ Each challenge includes:
 | 17 | 17-sum-numbers.js               | `17-sum-numbers.js With filter() and reduce() to sum numbers only`     |
 | 18 | 18-capitalize-valid-strings.js  | `18-capitalize-valid-strings.js Capitalize non-numeric strings only`   |
 | 19 | 19-capitalize-and-count-valid.js| `19-capitalize-and-count-valid.js capitalizes strings`                 |
+| 20 | 20-count-letters-in-words.js    | `20-count-letters-in-words.js counts total characters from strings`    |
 
 More coming soon...
 
