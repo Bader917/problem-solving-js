@@ -30,7 +30,7 @@ Each challenge includes:
 | 12 | 12-successful-students.js       | `12-Extract names of students who passed using filter + map`           |
 | 13 | 13-sum-numbers-only.js          | `13-Sum numeric values only using filter and reduce`                   |
 | 14 | 14-count-letters.js             | `14-count-letters.js With simple solution using filter`                |
-| 15 | 15-filter-map-students.js       | `filter-map-students.js With simple solution using filter and map`     |
+| 15 | 15-filter-map-students.js       | `15-filter-map-students.js With simple solution using filter and map`  |
 | 16 | 16-clean-numbers.js             | `16-clean-numbers.js With filter() to remove non-number values`        |
 | 17 | 17-sum-numbers.js               | `17-sum-numbers.js With filter() and reduce() to sum numbers only`     |
 | 18 | 18-capitalize-valid-strings.js  | `18-capitalize-valid-strings.js Capitalize non-numeric strings only`   |
